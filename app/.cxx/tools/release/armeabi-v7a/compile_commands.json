@@ -1,0 +1,12 @@
+[
+{
+  "directory": "D:/Descargas/DemoGoingFasterCPP/app/.cxx/Release/y5y3g3c3/armeabi-v7a",
+  "command": "C:\\Users\\Dani\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi19 --gcc-toolchain=C:/Users/Dani/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Dani/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dprocessimg_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -Wformat -Werror=format-security  -std=c++11 -fopenmp -O3 -mfloat-abi=softfp -mfpu=neon -flax-vector-conversions -O2 -DNDEBUG  -fPIC -o CMakeFiles\\processimg.dir\\src\\main\\cpp\\processimg.cpp.o -c D:\\Descargas\\DemoGoingFasterCPP\\app\\src\\main\\cpp\\processimg.cpp",
+  "file": "D:\\Descargas\\DemoGoingFasterCPP\\app\\src\\main\\cpp\\processimg.cpp"
+},
+{
+  "directory": "D:/Descargas/DemoGoingFasterCPP/app/.cxx/Release/y5y3g3c3/armeabi-v7a",
+  "command": "C:\\Users\\Dani\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi19 --gcc-toolchain=C:/Users/Dani/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Dani/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dprocessimg_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -Wformat -Werror=format-security  -std=c++11 -fopenmp -O3 -mfloat-abi=softfp -mfpu=neon -flax-vector-conversions -O2 -DNDEBUG  -fPIC -o CMakeFiles\\processimg.dir\\src\\main\\cpp\\processimg_neon.cpp.o -c D:\\Descargas\\DemoGoingFasterCPP\\app\\src\\main\\cpp\\processimg_neon.cpp",
+  "file": "D:\\Descargas\\DemoGoingFasterCPP\\app\\src\\main\\cpp\\processimg_neon.cpp"
+}
+]
